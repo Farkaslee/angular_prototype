@@ -1,8 +1,8 @@
 # angular_prototype
 
-This Prototype is an angular project front_end.
+<b>This Prototype is an angular project front_end.</b>
 
-JS Include:
+<b>JS Include:</b>
 
 Angular 1.2.20 
 
@@ -15,7 +15,7 @@ Jquery 1.11.0
 Font-awesome-4.2.0 css icon
 
 
-Project Directory:
+<b>Project Directory:</b>
 
 partials: static html 
 
